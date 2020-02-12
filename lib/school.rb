@@ -17,8 +17,8 @@ else
   end
 end
 
-def grade
-  puts "#{@name}"
+def grade(grade)
+  
 end
 
 end
