@@ -23,6 +23,6 @@ end
 
 def sort
   @roster.each do |grade,name|
-    
+    grade.name.sort!
 end
   
